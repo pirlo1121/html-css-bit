@@ -1,12 +1,14 @@
 body{
     margin: 0;
 }
+
 nav {
-    background-color: #48e;
+    background-color: rgb(238, 68, 68);
     color: white;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
+    gap: 45px;
     padding: 0 20px;
 }
 span{
